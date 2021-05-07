@@ -62,4 +62,13 @@ ideologies = [
             "scty": 20
         }
     },
+    {
+        "name": "Fruity",
+        "stats": {
+            "econ": 100,
+            "dipl": 30,
+            "govt": 90,
+            "scty": 60
+        }
+    },
 ];
