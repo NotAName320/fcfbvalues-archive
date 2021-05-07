@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Nota Nam",
+        "name": "NotAName",
         "stats": {
             "econ": 70,
             "dipl": 25,
