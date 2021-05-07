@@ -143,4 +143,13 @@ questions = [
             "scty": -10
         }
     },
+    {
+        "question": "I call my opponent's meme numbers after they do to see if I can catch them.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 10
+        }
+    },
 ];
