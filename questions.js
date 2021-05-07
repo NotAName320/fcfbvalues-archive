@@ -63,10 +63,28 @@ questions = [
         }
     },
     {
+        "question": "I've checked scouting at least once.",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "question": "If the scouting data is contrary to my instinct, I'll go with my instinct.",
         "effect": {
             "econ": 0,
             "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "I think scouting is a bunch of baloney.",
+        "effect": {
+            "econ": 0,
+            "dipl": -20,
             "govt": 0,
             "scty": 0
         }
@@ -95,6 +113,15 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 20,
+            "scty": 0
+        }
+    },
+    {
+        "question": "I chew the clock if I have a substantial lead, no matter the quarter or time.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 5,
             "scty": 0
         }
     },
