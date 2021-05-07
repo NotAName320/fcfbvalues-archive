@@ -53,4 +53,13 @@ ideologies = [
             "scty": 20
         }
     },
+    {
+        "name": "Cooper",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 20
+        }
+    },
 ];
