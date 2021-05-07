@@ -35,4 +35,22 @@ ideologies = [
             "scty": 90
         }
     },
+    {
+        "name": "Hobbes",
+        "stats": {
+            "econ": 0,
+            "dipl": 100,
+            "govt": 80,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Madjack272",
+        "stats": {
+            "econ": 0,
+            "dipl": 75,
+            "govt": 40,
+            "scty": 20
+        }
+    },
 ];
