@@ -71,4 +71,13 @@ ideologies = [
             "scty": 60
         }
     },
+    {
+        "name": "DSU Matt",
+        "stats": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 100,
+            "scty": 50
+        }
+    },
 ];
